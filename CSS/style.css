@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    background-color: #E5E5E5;
+    background-size: cover;
+}
+
+
+h1{
+    font-family: 'Times New Roman';
+    color: #005677;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 8px;
+    background-color:#C4C4C4;
+    font-weight: bold;
+    
+}
+h2{
+    font-family: Times New Roman;
+    color: #005677;  
+    text-transform: uppercase; 
+    letter-spacing: 3px; 
+    background-color: #C4C4C4;
+    
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    Line-height: 22px;
+}
+.Datos{
+    font-style: italic;
+    font-weight: bold;
+}
+.años{
+    font-weight: bold;  
+}
+.formacion{
+    margin-left: 80px;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
